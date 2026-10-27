@@ -52,6 +52,8 @@ I love turning ideas into thoughtful digital experiences, whether that's designi
 ![SQL](https://img.shields.io/badge/SQL-EEF5FF?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Power BI](https://img.shields.io/badge/Power_BI-EEF5FF?style=flat-square&logo=powerbi&logoColor=F2C811)
 ![Excel](https://img.shields.io/badge/Excel-EEF5FF?style=flat-square&logo=microsoftexcel&logoColor=217346)
+![Tableau](https://img.shields.io/badge/Tableau-EEF5FF?style=flat-square&logo=tableau&logoColor=E97627)
+![KNIME](https://img.shields.io/badge/KNIME-EEF5FF?style=flat-square&logo=knime&logoColor=F7CF3C)
 
 ### <img src="https://pixels.crd.co/assets/images/gallery46/38a20c1d.gif?v=29416114" width="20" alt="Ribbon" /> featured projects
 
